@@ -8,7 +8,6 @@ It has been fun performing the tasks
 ## Built With
 
 - html and css
-- Frameworks not used 
 - Linters
 
 
@@ -23,14 +22,16 @@ To get a local copy up and running follow these simple example steps.
 You need a compiler
 
 ### Setup
-You copy the repo link and use the git clone command in your terminal.
+You copy the repo link and use the git clone command in your terminal (https://github.com/Rikol137/Hello-Microverse2).
 
 
 ## Author
 
 👤 **Author1**
 
-- GitHub: [https://github.com/Rikol137]
+- GitHub: [@Rikol137](https://https://github.com/Rikol137)
+- Twitter: [@RikolK](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/KelvinKimwetich/)
 
 ## 🤝 Contributing
 
@@ -45,3 +46,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 -Thank Microverse for allowing me to be part of the your tasks
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
