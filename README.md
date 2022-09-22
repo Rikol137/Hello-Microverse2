@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple example steps.
 You need a compiler
 
 ### Setup
-You copy the repo link and use the git clone command in your terminal (https://github.com/Rikol137/Hello-Microverse2).
+You copy the repo link and use the git clone command in your terminal (git@github.com:Rikol137/Hello-Microverse2.git).
 
 
 ## Author
